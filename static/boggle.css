@@ -1,0 +1,13 @@
+.board {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 400%;
+    border: solid 2px black;
+}
+
+.board td {
+    text-align: center;
+    width: 2em;
+    height: 2em;
+}
